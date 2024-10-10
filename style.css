@@ -84,7 +84,7 @@ body {
     margin-left: 5px;
 }
 .hero-section {
-    background-image: url('/images/2-old.jpg'); /* Replace with actual image URL */
+    background-image: url('images/2-old.jpg'); /* Replace with actual image URL */
     background-size: cover;
     background-position: center;
     height: 100vh;
